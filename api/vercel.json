@@ -7,7 +7,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "falsk-test2/index.py"
+      "dest": "api/index.py"
     }
   ]
 }
